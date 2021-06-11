@@ -9,5 +9,5 @@ Now , To work with dotenv I have Installed .env using **touch.env** file while s
 Also , Dont Forget to Create the .gitignore using **touch.env** and ignore the .env file
 Now Run Using node filename.js in your terminal
 
-// Dont forget to turn on Allow Less Sure Apps in Your GMAIL
+// Dont forget to turn on Allow Less Sure Apps in Your Gmail
 // Install Touch Using **npm install touch-cli -g**
